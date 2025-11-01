@@ -46,6 +46,7 @@ You can get your Google AI API key from the [Google AI Studio](https://aistudio.
 
 This project includes the following deployment configuration files:
 
+- `vercel.json` - Configuration for Vercel deployments
 - `.env.example` - Example environment variables file
 
 ## Notes
